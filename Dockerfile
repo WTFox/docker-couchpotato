@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:latest
 MAINTAINER Tim Haak <tim@haak.co>
 
 ENV LANG='en_US.UTF-8' \
