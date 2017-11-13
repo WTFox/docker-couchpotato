@@ -9,6 +9,7 @@ RUN apk -U upgrade && \
     apk -U add \
         ca-certificates \
         git \
+        unrar \
         python \
         py2-pip py2-openssl py-libxml2 py2-lxml \
     && \
